@@ -13,17 +13,18 @@ knit        : slidify::knit2slides
 
 ## Why?
 
-1. How do you explain how spam detection works to non-technical staff and managers?
-2. Why will they choose our products ahead of our competitors
+1. How do you explain spam detection to non-technical staff and managers?
+2. Why will they choose our products ahead of our competitors?
 3. Why not use a fun and engaging application allowing potential customers to experiment and understand how a simple idea such as string frequency can be used to create spam filters?
 
 ---
 
 ## How does it work?
 
-1. eString uses the "r"" progammung language and "shiny"" to create a simple and interactive string frequency analysis application
-2. R is the professional statisticians tool if choice for creating complex statistical applications
+1. eString uses the "r"" progamming language and "shiny"" to create a simple and interactive string frequency analysis application
+2. R is the professional statisticians tool of choice for creating complex statistical applications
 3. Shiny allows a developer to create an interactive wrapper including info graphics so any user can experiment with "r"" programs through a simple html interface
+4. Frequency Analysis in R + Interactive Wrapper in Shiny = eString
 
 ---
 
